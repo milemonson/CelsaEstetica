@@ -1,0 +1,15 @@
+{
+  "name": "nodesass-ex",
+  "version": "9.8.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass -o style/css"
+  },
+  "keywords": [],
+  "author": "MileMonsoon",
+  "license": "BSD",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
